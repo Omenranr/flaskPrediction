@@ -9,4 +9,4 @@ def home_view():
 	return {"timeline":[1, 2, 3]}
 
 
-app.run(port="9999")
+app.run()
